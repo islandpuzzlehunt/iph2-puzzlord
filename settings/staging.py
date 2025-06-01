@@ -2,4 +2,4 @@ from settings.base import *
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['.www.example.com'] # FIXME: where are you hosting puzzlord?
+ALLOWED_HOSTS = ["https://iph2-puzzlord-34c662c2c86a.herokuapp.com"]
