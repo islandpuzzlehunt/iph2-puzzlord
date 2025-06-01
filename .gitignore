@@ -11,9 +11,6 @@
 /venv/
 /env/
 
-# pyenv
-.python-version
-
 # Ansible retry files
 /**/*.retry
 /**/*.log
